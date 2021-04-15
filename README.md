@@ -10,6 +10,7 @@
 ### AWS IAM 설정
 - CLI로 접근하기 위한 사용자 생성하기 위함
 - 계정 생성 후, 발급되는 CSV 다운받아 활용
+- AWS Seoul region : ap-northeast-2
 
 ### CLI환경에서 S3 사용
 > 기본 명령구조는 aws s3 <s3-command> <source-file/path> <destination-file/path>
