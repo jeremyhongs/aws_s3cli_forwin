@@ -21,4 +21,4 @@
     Delete
        aws s3 rm S3://<bucket-name>/<file-name>
 ```
-- S3 CLI 명령 관련 : https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-services-s3-commands.html
+- 이외 S3 CLI 명령 : https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-services-s3-commands.html
